@@ -1,0 +1,2 @@
+tutorial_one
+-DCATKIN_DEVEL_PREFIX=/home/davie_jones/ros_workspaces/ros_tutorials/devel -DCMAKE_INSTALL_PREFIX=/home/davie_jones/ros_workspaces/ros_tutorials/install -G Unix Makefiles
