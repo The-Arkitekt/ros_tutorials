@@ -3,3 +3,5 @@ devel
 
 build/*
 build
+
+src/CMakeLists.txt
