@@ -1,8 +1,0 @@
-prefix=/home/davie_jones/ros_workspaces/ros_tutorials/install
-
-Name: tutorial_one
-Description: Description of tutorial_one
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
